@@ -50,12 +50,16 @@ The workflow includes:
 
 The model predicts:
 
-1 → Win
+1 → Win,
 0 → Loss
 
 <h2>🤝 Contributing</h2>
 
 Contributions, feature requests, and suggestions are welcome.
+
+<h2>📄 License</h2>
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it in accordance with the license terms.
 
 <h2>👨‍💻 Author</h2>
 
